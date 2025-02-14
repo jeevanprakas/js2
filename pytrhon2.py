@@ -41,11 +41,11 @@
 
 
 # def function_name():
-#     print("Hello good morning")
-#     print("Hello good morning")
-#     print("Hello good morning")
-#     print("Hello good morning")
-#     print("Hello good morning radhika")
+#    print("Hello good morning")
+#    print("Hello good morning")
+#    print("Hello good morning")
+#    print("Hello good morning")
+#    print("Hello good morning radhika")
     #   print(2+3)
     #   print(a+b)
 #     function_name()
@@ -92,14 +92,14 @@
 
 # sum(5,4,53,34,34,23,23,56)
 
-# # key words
-# # def sum (**kargs):
-# #     print(type(kargs))
-# #     print(kargs)
-# #     res=0
-# #     for i, j in kargs.items():
-# #         res +=j
-# #         return res
+# key words
+# def sum (**kargs):
+#      print(type(kargs))
+#      print(kargs)
+#      res=0
+#      for i, j in kargs.items():
+#        res +=j
+#      return res
     
 
 
@@ -125,3 +125,66 @@
 
 # def sum_of_3(x,y,z):
 #     returnx+y+z
+#position agrenment ---->1
+# def add(a,b,c):
+#     print(a,b,c)
+# add(a=2,c=5,b=7)
+# #def agrements------>2
+# def add (a,b,c=8):
+#     print(a,b,c)
+# add(a=2,b=5)
+# #key word
+# def add (a,b,c):
+#     print(a,b,c)
+#     add(a=2,b=5)
+#position agrement
+# def add (a,b,c):
+#     print(a)
+# add(2,8,9)
+# #arbitary arugment
+# def add(*a):
+#     print(a)
+# add(1,2,3,4,5,6,7,88,99,00,"jeevan")
+
+# #key words aggrement
+# def add(**n):
+#     print(n)
+# add(num1=2,num2=4,num=6,num=8,num=9,num=23)
+
+# for loop range
+
+# list=[1,2,3,4,5,6,7]
+# for i in range:
+#  print(i)
+
+# list=[1,2,3,4,5,6,7]
+# for i in list[::-1]:
+#     print(i)
+
+
+#     n=5
+#     while n>10:
+#         n=1
+#         print(n)
+        
+    
+        
+# while
+# n=20
+# while n <21:
+#     n=1
+#     print(n)
+
+n=30
+while n>50:
+    n==5
+    print(n)
+
+
+
+
+
+
+
+
+
